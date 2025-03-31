@@ -22,7 +22,7 @@ The Xception model is initialized with pre-trained weights from ImageNet and fin
 
 ## Requirements
 
-To run this project, you need to have the following dependencies installed:
+The project was ran using the following dependencies:
 
 - Python 3.12.6
 - TensorFlow
